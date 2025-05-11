@@ -1,6 +1,6 @@
 # 1ACC0216-TB1-2025-1: Análisis de Demanda de Reservas Hoteleras
 ## 🎯 Objetivo del Trabajo
-Realizar un análisis exploratorio de datos (EDA) sobre el conjunto de datos "Hotel booking demand" para identificar patrones de comportamiento, generar visualizaciones, preparar los datos y extraer conclusiones iniciales utilizando R/RStudio como herramienta.
+Realizar un análisis exploratorio de datos (EDA) sobre el conjunto de datos "Hotel booking demand" para identificar patrones de comportamiento, generar visualizaciones, preparar los datos y extraer conclusiones iniciales utilizando RStudio como herramienta.
 ---
 
 ## 👥 Participantes
@@ -63,7 +63,6 @@ Incluye detalles como:
 
 ## 🧪 Tecnologías Utilizadas
 
-- R 4.x  
 - RStudio  
 - Paquetes:
   - `tidyverse`
