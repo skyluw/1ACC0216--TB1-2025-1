@@ -5,9 +5,9 @@ Realizar un análisis exploratorio de datos (EDA) sobre el conjunto de datos "Ho
 
 ## 👥 Participantes
 
-- [Cielo Luwidka Chavez Merino]  
-- [Marco Antonio Luciano Cabrera Díaz]  
-- [Carlos Alejandro Colfer Mendoza]  
+- Cielo Luwidka Chavez Merino 
+- Marco Antonio Luciano Cabrera Díaz
+- Carlos Alejandro Colfer Mendoza
 
 ---
 ## 📊 Descripción del Dataset
