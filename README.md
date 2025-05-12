@@ -52,12 +52,12 @@ Incluye detalles como:
 ## 🔍 Principales Conclusiones
 
 - **Preferencia por tipo de hotel:** La gente prefiere ampliamente City Hotel por sobre Resort Hotel 
-- **Estacionalidad:** [Conclusión sobre temporadas alta, media y baja]  
-- **Duración de estancias:** [Conclusión sobre duración promedio de estancias]  
-- **Cancelaciones:** [Conclusión sobre patrones de cancelación]  
-- **Familias vs. Viajeros individuales:** [Conclusión sobre huéspedes con/sin niños]  
-- **Necesidades de estacionamiento:** [Conclusión sobre importancia del estacionamiento]  
-- **Anticipación de reservas:** [Conclusión sobre lead time y su relación con cancelaciones]
+- **Estacionalidad:** Las reservas se concentran en julio y agosto (temporada alta), son moderadas de mayo a octubre (temporada media) y bajas en enero, febrero, noviembre y diciembre (temporada baja).  
+- **Duración de estancias:** La duración promedio de estancia es mayor en el Resort Hotel que en el City Hotel, reflejando diferencias en el propósito del viaje.  
+- **Cancelaciones:** Julio y agosto registran más cancelaciones, reflejando alta volatilidad en temporada alta, mientras que noviembre y diciembre tienen menos, lo que sugiere planes más estables en temporada baja.
+- **Familias vs. Viajeros individuales:** La mayoría de las reservas son de adultos sin niños ni bebés, lo que indica que las familias constituyen un segmento minoritario. 
+- **Necesidades de estacionamiento:** Las reservas con necesidad de estacionamiento muestran menor cancelación, reflejando mayor compromiso del cliente.
+- **Anticipación de reservas:** Entre 2015 y 2016 aumentó la demanda y la anticipación en las reservas, tras una baja en 2014-2015.
 
 ---
 
