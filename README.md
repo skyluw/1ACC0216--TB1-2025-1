@@ -51,7 +51,7 @@ Incluye detalles como:
 
 ## 🔍 Principales Conclusiones
 
-- **Preferencia por tipo de hotel:** [Conclusión sobre qué hotel tiene más demanda]  
+- **Preferencia por tipo de hotel:** La gente prefiere ampliamente City Hotel por sobre Resort Hotel 
 - **Estacionalidad:** [Conclusión sobre temporadas alta, media y baja]  
 - **Duración de estancias:** [Conclusión sobre duración promedio de estancias]  
 - **Cancelaciones:** [Conclusión sobre patrones de cancelación]  
